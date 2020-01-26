@@ -7,6 +7,7 @@ keywords:
 author: 'Cycloid'
 image: 'https://raw.githubusercontent.com/cycloid-community-catalog/stack-magento/master/icon.png'
 type: 'stack'
+status: 'public'
 technologies:
   - technology: Debian
     version: 9.x
